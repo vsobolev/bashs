@@ -4,8 +4,8 @@ bash scripts for automatization
 
 chmod +x setup_script.sh
 
-how to start:
+# how to start:
 
-./setup_script.sh
+./bash_uu_nala_starterkit.sh
 or
-bash 
+bash bash_uu_nala_starterkit.sh
