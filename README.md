@@ -2,7 +2,7 @@
 bash scripts for automatization
 
 
-chmod +x setup_script.sh
+chmod +x bash_uu_nala_starterkit.sh
 
 # how to start:
 
