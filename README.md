@@ -11,3 +11,8 @@ chmod +x bash_uu_nala_starterkit.sh
 or
 
 bash bash_uu_nala_starterkit.sh
+
+
+
+#how to check jupyterhub
+sudo systemctl status jupyterhub.service --no-pager
