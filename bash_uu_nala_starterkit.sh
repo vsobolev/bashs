@@ -14,7 +14,7 @@ sudo nala upgrade -y
 
 # Устанавливаем необходимые программы через nala
 echo "Installing tmux, htop, glances, and docker using nala..."
-sudo nala install tmux htop glances docker.io -y
+sudo nala install tmux htop glances golang rust-1.80-all docker.io -y
 
 # Завершено
 echo "Installation complete!"
